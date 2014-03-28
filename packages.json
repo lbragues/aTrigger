@@ -1,0 +1,11 @@
+{
+	"0.01" : {
+		"base_folder":"repositories",
+		"valid_repos":["0.01"]
+	},
+	{
+		"checksums":{
+			"0.01":{"sha1":""}
+		}
+	}
+}
